@@ -1,6 +1,6 @@
 # Learning CSS Framework {BOOTSTRAP}
 
-This project is a responsive website built using Bootstrap 5, HTML5, and CSS3. It features a modern design with various sections including a hero area, services, testimonials, and a contact form.
+This project is a responsive website built using Bootstrap 5, HTML5, and CSS3. It features a design with various sections including a hero area, services, testimonials, and a contact form. 
 
 
 ## Features
@@ -27,7 +27,7 @@ This project is a responsive website built using Bootstrap 5, HTML5, and CSS3. I
 
 ## View The Website 
 
-Hosted By netlify 
+Hosted By netlify <br>
 Website Link : https://66adead6d5c7de48ce729b27--strong-marzipan-3e879f.netlify.app/
 
 
